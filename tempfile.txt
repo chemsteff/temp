@@ -1,22 +1,21 @@
 
 
 rtr-crs310
-p1: 		wan-access			192.168.1.2
-p2:			rtr-mgt-5			10.5.5.1
-p3:			wfi-trk-5			
+p1:  wan-access			192.168.1.2
+p2:  rtr-mgt-5			10.5.5.1  
+p3:  wfi-trk-5			
 
-p4:			qnp01-acs-10		10.10.10.21
-p5:			qnp02-acs-10		10.10.10.31
-p6:			ugr03-acs-10		10.10.10.41
+p4:  qnp01-acs-10		10.10.10.21
+p5:  qnp02-acs-10		10.10.10.31
+p6:  ugr03-acs-10		10.10.10.41
 
-p7:			qnp01-trk-20		10.20.20.21
-p8			qnp02-trk-20		10.20.20.31
-ps1			ugr03-trk-20		10.20.20.41
-
-ps2			wrk01-trk-50		10.50.50.51		
+p7:  qnp01-trk-20		10.20.20.21
+p8:  qnp02-trk-20		10.20.20.31
+sp1:  ugr03-trk-20		10.20.20.41
+sp2:  wrk01-trk-50		10.50.50.51		
 
 acp-hapax3
-p1:			rtr-mgmt-5			10.5.5.2
+p1:  rtr-mgmt-5			10.5.5.2
 p2:
 p3:
 p4:
