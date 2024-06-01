@@ -1,4 +1,17 @@
 
+net-5   managemenr
+net-10  nas trunk
+net-20  nas transport
+
+net-30  wifi core
+net-40  wifi iot
+net-50  wifi guest
+
+net-60  core
+
+net-70  share
+net-80  docker
+net-90  tails
 
 rtr-crs310
 p1:  wan-access			192.168.1.2
